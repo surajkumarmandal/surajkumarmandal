@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Swift
-- 🌱 I’m currently learning React Native
+- 🌱 I’m also learning React Native
 - 📫 How to reach me: <a href="https://surajkumarmandal.com/">surajkumarmandal.com</a>
 
 ### If you found my repository helpful, please consider supporting me:
